@@ -8,7 +8,7 @@
 <body>
     @include('project_pages.nav') 
     <main>
-        @yield('content') 
+        @yield('content')
     </main>
     @include('project_pages.footer')
     @yield('script')

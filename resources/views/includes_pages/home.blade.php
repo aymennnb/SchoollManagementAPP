@@ -3,8 +3,13 @@
 @section('content')
 <div class="container">
         <div class="col-md-12">
-            <h1>home pages<hr>
+            <h1>statistiques : <h1><hr/>
+            <div>
+                 <div>....</div>
+                 <div>....</div>
+                 <div>....</div>
+                 <div>....</div>
+            </div>
         </div>
-        <x-users-table :langues="$langues"/>
 </div>
 @endsection
